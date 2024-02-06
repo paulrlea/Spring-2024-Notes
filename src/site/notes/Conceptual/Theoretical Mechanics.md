@@ -15,5 +15,10 @@ Notes:
 [[Theoretical Mechanics/Class Notes/2024-02-02 General Coordinates Continued\|2024-02-02 General Coordinates Continued]]
 [[Theoretical Mechanics/Class Notes/2024-02-06 Hamilton and Conservation\|2024-02-06 Hamilton and Conservation]]
 
+Old HW: 
+[[Theoretical Mechanics/HW/HW1 Paul Lea\|HW1 Paul Lea]]
+[[Theoretical Mechanics/HW/HW2 Paul Lea\|HW2 Paul Lea]]
+[[Theoretical Mechanics/HW/HW3 Paul Lea\|HW3 Paul Lea]]
+
 
 
