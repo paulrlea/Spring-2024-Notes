@@ -2,9 +2,18 @@
 {"dg-publish":true,"permalink":"/theoretical-mechanics/theoretical-mechanics/"}
 ---
 
+
 Also known as intermediate mechanics. So far have covered: 
 [[Conceptual/Lagrangian\|Lagrangian]], [[Conceptual/Euler-Lagrange Equation\|Euler-Lagrange Equation]], [[Conceptual/Brachistachrone Problem\|Brachistachrone Problem]] 
-[[Theoretical Mechanics/Class Notes/Classical  Review\|Classical  Review]], [[Conceptual/Hamiltonian\|Hamiltonian]], [[Conceptual/generalized coordinates\|generalized coordinates]], [[Conceptual/forces of constraint\|forces of constraint]]
+[[Theoretical Mechanics/Class Notes/Classical  Review\|Classical  Review]], [[Conceptual/Hamiltonian\|Hamiltonian]], [[Conceptual/generalized coordinates\|generalized coordinates]], [[Conceptual/forces of constraint\|forces of constraint]] 
+Professor: Dr. Charles Martin
+Office Hours: 11am-1pm Monday
+Also has other office hours 1-3pm Wednesday
+TA: Hiroka
+Office Hours: 1-3pm Tuesday
+Undergrad Facilitator: Kevin
+Office Hours: 
+3-5Pm Friday
 
 Notes: 
 [[Theoretical Mechanics/Class Notes/Classical  Review\|Classical  Review]]
