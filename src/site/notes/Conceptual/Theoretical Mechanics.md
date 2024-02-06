@@ -3,7 +3,8 @@
 ---
 
 Also known as intermediate mechanics. So far have covered: 
-[[Conceptual/Lagrangian\|Lagrangian]], [[Conceptual/Euler-Lagrange Equation\|Euler-Lagrange Equation]], [[Conceptual/Brachistachrone Problem\|Brachistachrone Problem]] and [[Theoretical Mechanics/Class Notes/Classical  Review\|Classical  Review]]
+[[Conceptual/Lagrangian\|Lagrangian]], [[Conceptual/Euler-Lagrange Equation\|Euler-Lagrange Equation]], [[Conceptual/Brachistachrone Problem\|Brachistachrone Problem]] 
+[[Theoretical Mechanics/Class Notes/Classical  Review\|Classical  Review]], [[Hamiltonian\|Hamiltonian]], [[Conceptual/generalized coordinates\|generalized coordinates]], [[Conceptual/forces of constraint\|forces of constraint]]
 
 Notes: 
 [[Theoretical Mechanics/Class Notes/Classical  Review\|Classical  Review]]
