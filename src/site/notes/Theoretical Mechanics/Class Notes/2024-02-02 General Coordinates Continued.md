@@ -160,7 +160,8 @@ v_{t} = R\dot{\theta}
 $$
 $$
 ds = Rd\theta
-$$$$
+$$
+$$
 v = \frac{ds}{dt} = R \frac{d\theta}{dt} = R \dot{\theta}
 $$
 $$
