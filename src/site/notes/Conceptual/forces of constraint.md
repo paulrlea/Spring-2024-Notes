@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/conceptual/forces-of-constraint/"}
 ---
 
-Related to [[Conceptual/Theoretical Mechanics\|Theoretical Mechanics]]
+Related to [[Theoretical Mechanics/Theoretical Mechanics\|Theoretical Mechanics]]
 
 Do the reading for a more in-depth guide on constraints
 
