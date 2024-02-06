@@ -101,7 +101,8 @@ Reference frames cannot be traveling faster then the speed of light to each othe
 2. For special relativity we use 4-dimensional Minkowsky spacetime (4D spacetime)
 		$x_{1} = x_{1}, \ x_{2}=y_{1}, \ x_{3}=z_{1}, \ x_{4}=ct$
 		4 vectors: 
-		$$
+		
+$$
 \vec{x}=\begin{pmatrix}
 x_{1} \\
 x_{2} \\
