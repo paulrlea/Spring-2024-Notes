@@ -195,7 +195,7 @@ $$
 $$
 =2T - T+ u= T+ u = E_\text{total}
 $$
-This is the [[Physics/Quantum Physics/Concepts/Hamiltonian\|Hamiltonian]], the same one from [[Physics/Quantum Physics/Quantum Physics\|Quantum Physics]]
+This is the [[Hamiltonian\|Hamiltonian]], the same one from [[Physics/Quantum Physics/Quantum Physics\|Quantum Physics]]
 
 	> Figure 4
 	
@@ -328,7 +328,7 @@ $$
 $$
 P_{0} = \frac{ \partial L }{ \partial \dot{\theta} } = ml^{2}\dot{\theta} 
 $$
-[[Angular momentum \|Angular momentum ]]
+[[Physics/Quantum Physics/Concepts/Angular Momentum\|Angular Momentum]]
 
 
 
