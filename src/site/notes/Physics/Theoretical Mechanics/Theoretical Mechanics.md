@@ -20,6 +20,7 @@ Notes:
 [[Physics/Theoretical Mechanics/Class Notes/2024-01-30 Calc. of Variations Continued\|2024-01-30 Calc. of Variations Continued]]
 [[Physics/Theoretical Mechanics/Class Notes/2024-02-02 General Coordinates Continued\|2024-02-02 General Coordinates Continued]]
 [[Physics/Theoretical Mechanics/Class Notes/2024-02-06 Hamilton and Conservation\|2024-02-06 Hamilton and Conservation]]
+[[Physics/Theoretical Mechanics/Class Notes/2024-02-09 Angular and Hamiltonian\|2024-02-09 Angular and Hamiltonian]]
 
 Old HW, double check before using answers for **anything**
 [[Physics/Theoretical Mechanics/HW/HW1 Paul Lea\|HW1 Paul Lea]] 39.5/40
