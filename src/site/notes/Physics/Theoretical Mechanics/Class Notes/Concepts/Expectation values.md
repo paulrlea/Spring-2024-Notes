@@ -7,4 +7,4 @@ The expectation value is the "average" value of an observable over very many mea
 $$
 <A> = \int \Psi^* (x) \hat{A} \Psi(x) \, dx
 $$
-This is poorly named, because it is not the most likely value. It is the average value of an [[Physics/Quantum Physics/Concepts/observable\|observable]] over all spaces where the wave function can exist. 
+This is poorly named, because it is not the most likely value. It is the average value of an [[observable\|observable]] over all spaces where the wave function can exist. 
