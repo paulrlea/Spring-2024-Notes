@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/physics/quantum-physics/concepts/hermitian-operator/"}
 ---
 
-## [[Physics/Quantum Physics/Concepts/Hermitian Operator\|Hermitian Operator]]
 If an operator has
  1. Real Eigenvalues
  2. Orthogonal Eigenfunctions and distinct Eigenvalues for these Eigenfunctions,
