@@ -195,7 +195,7 @@ $$
 $$
 =2T - T+ u= T+ u = E_\text{total}
 $$
-This is the [[Physics/Theoretical Mechanics/Class Notes/Concepts/Hamiltonian\|Hamiltonian]], the same one from [[Physics/Quantum Physics/Quantum Physics\|Quantum Physics]]
+This is the [[Physics/Theoretical Mechanics/Class Notes/Concepts/Hamiltonian\|Hamiltonian]], the same one from [[Physics/Quantum Physics/Persans/Quantum Physics\|Quantum Physics]]
 
 	> Figure 4
 	
