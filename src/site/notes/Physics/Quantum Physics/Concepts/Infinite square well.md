@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/physics/quantum-physics/concepts/infinite-square-well/"}
 ---
 
-#qp1 
 ## A.k.a Particle in a box
 ![Pasted image 20231021162902.png](/img/user/Attachments/Pasted%20image%2020231021162902.png)
 
