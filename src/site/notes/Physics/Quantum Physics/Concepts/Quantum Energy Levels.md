@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/physics/quantum-physics/concepts/quantum-energy-levels/"}
 ---
 
-#learning 
+#incomplete 
 Quantum Energy Levels for the 1d infinite square well are defined by 
 $$
 E_{n} =  \frac{n^{2}\hbar^{2}\pi^{2}}{2mL^{2}}
