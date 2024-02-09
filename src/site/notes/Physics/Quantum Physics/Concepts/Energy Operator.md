@@ -12,4 +12,4 @@ $$
 $$
 The content within brackets, $\left[ -\frac{\hbar^{2}}{2m} \frac{d^{2}}{dx^{2}} + V(x) \right]$, constitutes the [[Physics/Quantum Physics/Concepts/Energy Operator\|Energy Operator]], also denoted by $\hat{H}$. 
 
-See also:  standard [[Physics/Quantum Physics/Persans/Energy Eigenvalue Equation\|Energy Eigenvalue Equation]]: 
+See also:  standard [[Physics/Quantum Physics/Concepts/Energy Eigenvalue Equation\|Energy Eigenvalue Equation]]: 
