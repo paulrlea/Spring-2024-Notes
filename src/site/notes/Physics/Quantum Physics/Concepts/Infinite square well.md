@@ -41,7 +41,7 @@ We can graphically demonstrate these energy levels through graphing as well.
 
 Classically, the *amplitude* of the oscillation would determine the energy of the, but for the particle in the box the energy increases as nodes increase. The higher the wave functions *spatial frequency* is, the more energy the particle has. The energy of the particle is not related to amplitude, which is set to 1 via normalization. 
 
-These results also correspond to the relation given to us by the [[Heisenberg Uncertainty Principle\|Heisenberg Uncertainty Principle]]. If $\Delta p_{x}=0$, then $\Delta x=\infty$, but we know this cannot be possible due to the particle not being able to exist outside the box. Therefore, it logically follows that the particle must have a nonzero momentum and thus a nonzero energy. Further, if the box is smaller, the minimum energy must be larger because $\Delta p$ and $\Delta x$ are inversely related. This also corresponds to our earlier findings, as 
+These results also correspond to the relation given to us by the [[Physics/Quantum Physics/Concepts/Heisenberg Uncertainty Principle\|Heisenberg Uncertainty Principle]]. If $\Delta p_{x}=0$, then $\Delta x=\infty$, but we know this cannot be possible due to the particle not being able to exist outside the box. Therefore, it logically follows that the particle must have a nonzero momentum and thus a nonzero energy. Further, if the box is smaller, the minimum energy must be larger because $\Delta p$ and $\Delta x$ are inversely related. This also corresponds to our earlier findings, as 
 $$
 E=\frac{n^{2}\pi^{2}\hbar^{2}}{2mL^{2}}$$
 is larger when L is smaller. 
