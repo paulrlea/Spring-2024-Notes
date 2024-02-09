@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/physics/quantum-physics/concepts/time-independent-schrodinger-equation/"}
 ---
 
-The [[Physics/Quantum Physics/Concepts/Schrodinger equation\|Schrodinger equation]] in a single dimension can be reduced to two ordinary differential equations through separation of variables. This yields one equation that is dependent on time, and one that is time independent. It is also known as the [[Physics/Quantum Physics/Energy Eigenvalue Equation\|Energy Eigenvalue Equation]]. 
+The [[Physics/Quantum Physics/Concepts/Schrodinger equation\|Schrodinger equation]] in a single dimension can be reduced to two ordinary differential equations through separation of variables. This yields one equation that is dependent on time, and one that is time independent. It is also known as the [[Physics/Quantum Physics/Persans/Energy Eigenvalue Equation\|Energy Eigenvalue Equation]]. 
 $$
 -\frac{\hbar^{2}}{2m} \frac{\partial\Psi(x,t)}{\partial x^2} + V(x)\Psi(x,t) = i\hbar  \frac{\partial\Psi(x,t)}{\partial t}
 $$
