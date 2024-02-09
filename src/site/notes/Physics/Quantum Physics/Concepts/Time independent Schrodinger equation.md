@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/physics/quantum-physics/concepts/time-independent-schrodinger-equation/"}
 ---
 
-The [[Physics/Quantum Physics/Concepts/Schrodinger equation\|Schrodinger equation]] in a single dimension can be reduced to two ordinary differential equations through separation of variables. This yields one equation that is dependent on time, and one that is time independent. It is also known as the [[Physics/Quantum Physics/Persans/Energy Eigenvalue Equation\|Energy Eigenvalue Equation]]. 
+The [[Physics/Quantum Physics/Concepts/Schrodinger equation\|Schrodinger equation]] in a single dimension can be reduced to two ordinary differential equations through separation of variables. This yields one equation that is dependent on time, and one that is time independent. It is also known as the [[Physics/Quantum Physics/Concepts/Energy Eigenvalue Equation\|Energy Eigenvalue Equation]]. 
 $$
 -\frac{\hbar^{2}}{2m} \frac{\partial\Psi(x,t)}{\partial x^2} + V(x)\Psi(x,t) = i\hbar  \frac{\partial\Psi(x,t)}{\partial t}
 $$
@@ -51,7 +51,8 @@ $$
 \frac{\mathbf{L}^{2}_{op}}{2mr^{2}} = -\frac{\hbar^{2}}{2m}\left[ \frac{1}{r^{2}\sin \theta} \frac{d}{d\theta} \left( \sin \theta \frac{ d}{d\theta} \right) + \frac{1}{r^{2} \sin ^{2}\theta} \frac{d^{2}}{d\phi^{2}}  \right]
 $$
 ### Separation of Variables in Spherical Coordinates
-Replacing the Hamiltonian operator with $\left( \frac{\hat{P}_{r}^{2}}{2m} + \frac{\hat{L}^{2}}{2mr^{2}} \right)$, we get $$
+Replacing the Hamiltonian operator with $\left( \frac{\hat{P}_{r}^{2}}{2m} + \frac{\hat{L}^{2}}{2mr^{2}} \right)$, we get 
+$$
 \left( \frac{\hat{P}_{r}^{2}}{2m} + \frac{\hat{L}^{2}}{2mr^{2}} \right) \Psi(r,\theta,\phi)=(E-V(r))\Psi(r,\theta,\phi)
 $$
 Replacing $\Psi$ with $R(r)Y(\theta, \phi)$ 
