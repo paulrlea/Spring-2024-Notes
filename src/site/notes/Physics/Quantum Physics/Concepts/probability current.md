@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/physics/quantum-physics/concepts/probability-current/"}
 ---
 
-#learning 
+#incomplete 
 Probability current here. Need to review. 
 Formula given by
 $$
