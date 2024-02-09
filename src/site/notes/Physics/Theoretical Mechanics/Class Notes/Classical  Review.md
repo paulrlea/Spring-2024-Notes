@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/physics/theoretical-mechanics/class-notes/classical-review/"}
 ---
 
-
 # Classical mechanics
 - Used in 1687 to 1905, 1905 was Einstein's "miracle" year
 - Classical mechanics works well for low speed, not high gravity areas. 
@@ -89,8 +88,13 @@ $$
 #### Constant Force Example
 - For a case with a constant force $\vec{F}= c$
 	- If the force is constant the acceleration is also constant
- $$\vec{F}=m\vec{a}=c$$ $$m \frac{dv}{dt} = ma$$
- $$
+$$
+\vec{F}=m\vec{a}=c
+$$
+$$
+m \frac{dv}{dt} = ma
+$$
+$$
 \frac{dv}{dt} =a
 $$
 $$
