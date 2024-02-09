@@ -27,9 +27,11 @@ Old HW, double check before using answers for **anything**
 [[Physics/Theoretical Mechanics/HW/HW3 Paul Lea\|HW3 Paul Lea]] 26.5/30
 [[Physics/Theoretical Mechanics/HW/HW4 Paul Lea\|HW4 Paul Lea]] (ungraded)
 
+[[Physics/Theoretical Mechanics/Theoretical Mechanics Exam 1 Resources\|Theoretical Mechanics Exam 1 Resources]]
+
 Also known as intermediate mechanics. So far have covered: 
 [[Physics/Theoretical Mechanics/Class Notes/Concepts/Lagrangian\|Lagrangian]], [[Physics/Theoretical Mechanics/Class Notes/Concepts/Euler-Lagrange Equation\|Euler-Lagrange Equation]], [[Physics/Theoretical Mechanics/Class Notes/Concepts/Brachistachrone Problem\|Brachistachrone Problem]] 
-[[Physics/Theoretical Mechanics/Class Notes/Classical  Review\|Classical  Review]], [[Hamiltonian\|Hamiltonian]], [[Physics/Theoretical Mechanics/Class Notes/Concepts/generalized coordinates\|generalized coordinates]], [[Physics/Theoretical Mechanics/Class Notes/Concepts/forces of constraint\|forces of constraint]] 
+[[Physics/Theoretical Mechanics/Class Notes/Classical  Review\|Classical  Review]], [[Physics/Theoretical Mechanics/Class Notes/Concepts/Hamiltonian\|Hamiltonian]], [[Physics/Theoretical Mechanics/Class Notes/Concepts/generalized coordinates\|generalized coordinates]], [[Physics/Theoretical Mechanics/Class Notes/Concepts/forces of constraint\|forces of constraint]] 
 
 
 
