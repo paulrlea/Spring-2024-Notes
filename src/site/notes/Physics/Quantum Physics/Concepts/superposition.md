@@ -34,7 +34,8 @@ $$
 Recall: 
 $$
 \Psi_{n}(x,t)=\sum c_{n}\varphi_{n}(x)e^{-iE_{n}t/\hbar}
-$$$ @ $t=0$ 
+$$
+$t=0$ 
 
 
 This is also the Fourier series expansion
@@ -61,15 +62,15 @@ $$
 \int \varphi^{*}_{m} \Psi(x,0)\ dx = \sum C_{n} \int \varphi^{*}_{m}\varphi_{n}(x) \, dx 
 $$
 >From the integral on the the RHS of the above eq:
->$$
+$$
 \int \varphi_{m}^{*}\varphi_{n} \, dx 
 $$
->$$
+$$
 \int \sin\left( \frac{m\pi x}{L} \right) \sin\left( \frac{n\pi x}{L} \right)\, dx 
 $$
 >This yields a situation where the function is 0 where $m \neq 0$ and 1 where $m=n$. 
 >This is known as the [[Physics/Math Background/Kronecker delta\|Kronecker delta]], and is denoted by
->$$
+$$
 \delta_{m,n}
 $$
 $$
