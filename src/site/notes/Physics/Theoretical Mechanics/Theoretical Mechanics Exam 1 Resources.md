@@ -22,3 +22,7 @@
 Back Exam: 
 https://drive.google.com/file/d/1v0opDy5yPW4tFAxx_7oI7hFHgMDHlwnP/view?usp=sharing
 
+Concepts covered: 
+[[Physics/Theoretical Mechanics/Class Notes/Concepts/Euler-Lagrange Equation\|Euler-Lagrange Equation]]
+[[Physics/Theoretical Mechanics/Class Notes/2024-01-23 Lagrangian Mechanics\|2024-01-23 Lagrangian Mechanics]]
+
