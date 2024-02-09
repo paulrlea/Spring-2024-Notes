@@ -29,7 +29,7 @@ Old HW, double check before using answers for **anything**
 
 Also known as intermediate mechanics. So far have covered: 
 [[Physics/Theoretical Mechanics/Class Notes/Concepts/Lagrangian\|Lagrangian]], [[Physics/Theoretical Mechanics/Class Notes/Concepts/Euler-Lagrange Equation\|Euler-Lagrange Equation]], [[Physics/Theoretical Mechanics/Class Notes/Concepts/Brachistachrone Problem\|Brachistachrone Problem]] 
-[[Physics/Theoretical Mechanics/Class Notes/Classical  Review\|Classical  Review]], [[Physics/Quantum Physics/Concepts/Hamiltonian\|Hamiltonian]], [[Physics/Theoretical Mechanics/Class Notes/Concepts/generalized coordinates\|generalized coordinates]], [[Physics/Theoretical Mechanics/Class Notes/Concepts/forces of constraint\|forces of constraint]] 
+[[Physics/Theoretical Mechanics/Class Notes/Classical  Review\|Classical  Review]], [[Hamiltonian\|Hamiltonian]], [[Physics/Theoretical Mechanics/Class Notes/Concepts/generalized coordinates\|generalized coordinates]], [[Physics/Theoretical Mechanics/Class Notes/Concepts/forces of constraint\|forces of constraint]] 
 
 
 
