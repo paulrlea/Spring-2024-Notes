@@ -16,7 +16,7 @@ and
 $$
 -\frac{\hbar^2}{2m} \frac{\partial\psi(x,t)}{\partial x^2} + V(x)\psi(x) = E\psi(x)
 $$
-	The latter is known as the [[Physics/Quantum Physics/Concepts/Time independent Schrodinger equation\|Time independent Schrodinger equation]], while the former can be rather easily solved using an [[ansatz\|ansatz]] of $F(t) =f(0)e^{-iEt/\hbar}$ , or $F(t) =f(0)e^{i\omega}$ where $E = \hbar \omega$ . 
+The latter is known as the [[Physics/Quantum Physics/Concepts/Time independent Schrodinger equation\|Time independent Schrodinger equation]], while the former can be rather easily solved using an [[ansatz\|ansatz]] of $F(t) =f(0)e^{-iEt/\hbar}$ , or $F(t) =f(0)e^{i\omega}$ where $E = \hbar \omega$ . 
 
 **NB**:
 $$
