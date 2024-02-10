@@ -15,7 +15,7 @@ Applying the above, we can have a basis vector:
 $$
 \varphi_{n}(x) = \sqrt{ \frac{2}{L} } \sin\left( \frac{n\pi x}{L} \right) 
 $$
-Represent an [[eigenfunction\|eigenfunction]] of the Hamiltonian operator $\hat{H}$ in the following equation: 
+Represent an [[Physics/Math Background/eigenfunction\|eigenfunction]] of the Hamiltonian operator $\hat{H}$ in the following equation: 
 $$
 \left[ -\frac{\hbar^{2}}{2m} \frac{d^{2}}{dx^{2}} + V(x) \right]\varphi(x) = E\varphi(x)
 $$
