@@ -6,7 +6,7 @@
 1. Consider a projectile fired from the origin of a three-dimensional coordinate system on Earth (+z is the “up” direction). Assume that the projectile is fired with an initial velocity $v_{0}$ at an angle α above the horizontal in the direction of the +x axis. 
 
 a. Calculate the angular momentum of the projectile. Momentum and position and are measured with respect to the origin of the coordinate system.
- ![Pasted image 20240109205626.png](/img/user/Physics/Theoretical%20Mechanics/Images/Pasted%20image%2020240109205626.png)
+ ![Pasted image 20240109205626.png](/img/user/Attachments/Images/Pasted%20image%2020240109205626.png)
 $$
 \vec{L} = \vec{r} \times \vec{p} 
 $$
@@ -129,7 +129,7 @@ $$
 y(t) = \frac{v_{b}t}{\sqrt{ 2 }} - \frac{1}{2}gt^{2} + y_{0} 
 $$
 We have our equations of motion, but we need to find the $y_{0}$ and $x_{0}$ values. We can accomplish this by looking at the triangle formed between points a and b, outlined (poorly) in red in the figure below
-![Pasted image 20240112132814 1.png](/img/user/Physics/Theoretical%20Mechanics/Images/Pasted%20image%2020240112132814%201.png)
+![Pasted image 20240112132814 1.png](/img/user/Attachments/Images/Pasted%20image%2020240112132814%201.png)
 
 
 From the previous part, we have the y component of the triangle
@@ -139,7 +139,7 @@ B_{y} = R - (R\cos(45^{\degree})) = R-\frac{R}{\sqrt{ 2 }}
 $$
 Now we just need the x component
 
-![Pasted image 20240112142738 1.png](/img/user/Physics/Theoretical%20Mechanics/Images/Pasted%20image%2020240112142738%201.png)
+![Pasted image 20240112142738 1.png](/img/user/Attachments/Images/Pasted%20image%2020240112142738%201.png)
 $$
 B_{x} = \frac{R}{\sqrt{ 2 }}
 $$
@@ -180,7 +180,7 @@ $$
 $$
 (d) Sketch the potential energy U(x) of the block. Indicate the total energy on the sketch
 
-![Pasted image 20240110150145.png](/img/user/Physics/Theoretical%20Mechanics/Images/Pasted%20image%2020240110150145.png)
+![Pasted image 20240110150145.png](/img/user/Attachments/Images/Pasted%20image%2020240110150145.png)
 
 
 3. Consider a projectile of mass m fired vertically upward in a constant gravitational field g. The direction of the gravitational field is downward. The initial velocity of the projectile is v(0) = v0. Calculate the time, tm , required for the projectile to reach maximum height for the case of 
