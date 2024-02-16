@@ -4,7 +4,7 @@
 
 Continued from [[Physics/Theoretical Mechanics/Class Notes/2024-02-02 General Coordinates Continued\|2024-02-02 General Coordinates Continued]]
 
-![Pasted image 20240206085832.png](/img/user/Physics/Theoretical%20Mechanics/Images/Pasted%20image%2020240206085832.png)
+![Pasted image 20240206085832.png](/img/user/Attachments/Images/Pasted%20image%2020240206085832.png)
 
 We went briefly over two methods to solve the ball rolling down a slope problem. Here is the first method, Substitution 
 
@@ -96,7 +96,7 @@ $$
 \lambda = \frac{-Mg\sin \phi\left( \frac{1}{2}MR^{2} \right)}{MR^{2}+\frac{1}{2}MR^{2}}=-\frac{1}{3}Mg\sin \phi
 $$
 
-![Pasted image 20240206085844.png](/img/user/Physics/Theoretical%20Mechanics/Images/Pasted%20image%2020240206085844.png)
+![Pasted image 20240206085844.png](/img/user/Attachments/Images/Pasted%20image%2020240206085844.png)
 
 $$
 \sum F = m\ddot{x}
@@ -108,7 +108,7 @@ $$
 mg\sin\theta-\frac{I\ddot{x}}{R^{2}}=m\ddot{x}
 $$
 
-![Pasted image 20240206085856.png](/img/user/Physics/Theoretical%20Mechanics/Images/Pasted%20image%2020240206085856.png)
+![Pasted image 20240206085856.png](/img/user/Attachments/Images/Pasted%20image%2020240206085856.png)
 $$
 T = I\vec{\alpha} = \vec{r} \times \vec{F} \implies I\alpha = Rf
 $$
