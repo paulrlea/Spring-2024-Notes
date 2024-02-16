@@ -26,3 +26,5 @@ $$
 \hat{H} = \frac{\hat{p}^{2}}{2m} + v(\hat{x}) \implies =\frac{\hbar^{2}}{2m} \frac{d^{2}\varphi(x)}{dx^{2}} + v(x) \varphi(x) = E\varphi(x)
 $$
 
+
+
