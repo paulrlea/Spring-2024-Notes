@@ -366,6 +366,7 @@ Time dilation
 $$
 \Delta t = \gamma \Delta t'
 $$
+Length contraction
 $$
 \Delta x = \frac{\Delta x'}{\gamma}
 $$
