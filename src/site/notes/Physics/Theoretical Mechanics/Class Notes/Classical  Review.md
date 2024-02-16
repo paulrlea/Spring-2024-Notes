@@ -8,7 +8,7 @@
 - Newtonian Mechanics 
 	- Based on the concept of forces $\vec{F}$
 	- Think about incline plane problems, free body diagrams, Dr Korniss
-	- ![Pasted image 20240109091903.png](/img/user/Physics/Theoretical%20Mechanics/Images/Pasted%20image%2020240109091903.png)
+	- ![Pasted image 20240109091903.png](/img/user/Attachments/Images/Pasted%20image%2020240109091903.png)
 	- Dot notation for derivatives, $\dot{x}$ is first time derivative, $\ddot{x}$ is second time derivative.
 - Lagrange/Hamiltonian mechanics
 	- Based on energy (kinetic and potential)
@@ -311,7 +311,7 @@ $$
 Motion is limited to energies where $E>u(x)$
 
 We can analyze motion of a system by creating a plot of $u(x)$ vs $x$
-![Pasted image 20240112093536 1.png](/img/user/Physics/Theoretical%20Mechanics/Images/Pasted%20image%2020240112093536%201.png)
+![Pasted image 20240112093536 1.png](/img/user/Attachments/Images/Pasted%20image%2020240112093536%201.png)
 - $x_{0}$ is the stable equilibrium point
 - equilibrium $= \frac{du}{dx} = 0$
 - $\frac{d^{2}U}{dx^{2}}$ to determine stable/unstable
