@@ -24,7 +24,7 @@ $$
 $$
 Probability is Independent of time
 
-Using the [[Physics/Quantum Physics/Concepts/Time independent Schrodinger equation\|Physics/Quantum Physics/Concepts/Time independent Schrodinger equation]], and a suitable $V(x)$ we can model a "particle in a box", also known as an [[Physics/Quantum Physics/Concepts/Infinite square well\|Infinite square well]]. We can also use the [[Physics/Quantum Physics/Concepts/Time independent Schrodinger equation\|Physics/Quantum Physics/Concepts/Time independent Schrodinger equation]] to model [[Physics/Quantum Physics/Concepts/Step Potentials\|Step Potentials]] as seen later on. 
+Using the [[Physics/Quantum Physics/Concepts/Time independent Schrodinger equation\|Time independent Schrodinger equation]], and a suitable $V(x)$ we can model a "particle in a box", also known as an [[Physics/Quantum Physics/Concepts/Infinite square well\|Infinite square well]]. We can also use the [[Physics/Quantum Physics/Concepts/Time independent Schrodinger equation\|Time independent Schrodinger equation]] to model [[Physics/Quantum Physics/Concepts/Step Potentials\|Step Potentials]] as seen later on. 
 
 
 ## Three Dimensional Versions
