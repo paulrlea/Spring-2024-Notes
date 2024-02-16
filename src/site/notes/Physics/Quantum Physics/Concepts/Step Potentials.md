@@ -25,7 +25,7 @@ What happens if $E > V_0$?
 (energy is greater then potential)
 
 ![Pasted image 20231020132325.png](/img/user/Attachments/Pasted%20image%2020231020132325.png)
-We can take the [[Physics/Quantum Physics/Concepts/Time independent Schrodinger equation\|Physics/Quantum Physics/Concepts/Time independent Schrodinger equation]]
+We can take the [[Physics/Quantum Physics/Concepts/Time independent Schrodinger equation\|Time independent Schrodinger equation]]
 
 $$
 -\frac{\hbar^2}{2m} \frac{d^2\varphi(x)}{dx^2} + v(x)\varphi = E\varphi(x)
