@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/physics/quantum-physics/concepts/schrodinger-equation/"}
 ---
 
-See: [[Physics/Quantum Physics/Concepts/Time independent Schrodinger equation\|Physics/Quantum Physics/Concepts/Time independent Schrodinger equation]]
+See: [[Physics/Quantum Physics/Concepts/Time independent Schrodinger equation\|Time independent Schrodinger equation]]
 **Typically when we refer to the [[Physics/Quantum Physics/Concepts/Schrodinger equation\|Schrodinger equation]] we are talking about the time independent one**
 The Schrödinger equation is a fundamental equation in quantum mechanics that describes how the wave function of a physical system evolves over time. It is named after the Austrian physicist Erwin Schrödinger, who formulated it in 1925.
 
