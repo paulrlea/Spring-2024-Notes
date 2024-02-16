@@ -6,7 +6,7 @@
 ![Pasted image 20231021162902.png](/img/user/Attachments/Pasted%20image%2020231021162902.png)
 
 
-To produce an effective model, we start by solving the [[Physics/Quantum Physics/Concepts/Time independent Schrodinger equation\|Physics/Quantum Physics/Concepts/Time independent Schrodinger equation]] for 0 < x < L. Starting by setting V=0, we get 
+To produce an effective model, we start by solving the [[Physics/Quantum Physics/Concepts/Time independent Schrodinger equation\|Time independent Schrodinger equation]] for 0 < x < L. Starting by setting V=0, we get 
 $$
 -\frac{\hbar^{2}}{2m} \frac{\partial\Psi(x)}{\partial x^2} = E\psi(x)
 $$
