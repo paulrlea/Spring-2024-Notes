@@ -4,7 +4,7 @@
 
 - Energy based
 - Practical problems with Newtonian mechanics led to development of Lagrangian mechanics
-![Pasted image 20240129103214.png](/img/user/Physics/Theoretical%20Mechanics/Images/Pasted%20image%2020240129103214.png)
+![Pasted image 20240129103214.png](/img/user/Attachments/Images/Pasted%20image%2020240129103214.png)
 Example of problem that would be nearly impossible to solve with newtonian mechanics
 
 #### Lagrange's equation of motion 
