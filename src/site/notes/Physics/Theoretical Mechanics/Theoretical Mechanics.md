@@ -29,7 +29,7 @@ Old HW, double check before using answers for **anything**
 [[Physics/Theoretical Mechanics/HW/HW2 Paul Lea\|HW2 Paul Lea]] 30/30
 [[Physics/Theoretical Mechanics/HW/HW3 Paul Lea\|HW3 Paul Lea]] 26.5/30
 [[Physics/Theoretical Mechanics/HW/HW4 Paul Lea\|HW4 Paul Lea]] 18/20
-[[HW5 Paul Lea\|HW5 Paul Lea]] 
+[[Physics/Theoretical Mechanics/HW/HW5 Paul Lea\|HW5 Paul Lea]] 
 
 [[Physics/Theoretical Mechanics/Theoretical Mechanics Exam 1 Resources\|Theoretical Mechanics Exam 1 Resources]]
 [[Theoretical Mechanics Exam 2 Resources\|Theoretical Mechanics Exam 2 Resources]]
