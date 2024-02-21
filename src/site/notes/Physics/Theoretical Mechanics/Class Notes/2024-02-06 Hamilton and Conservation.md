@@ -29,7 +29,7 @@ $$
 $$
 \ddot{x} =\frac{ Mg\sin \phi}{M+\frac{I}{R^{2}}}
 $$
-Method 2, using lagrange multipliers
+Method 2, using [[Physics/Theoretical Mechanics/Class Notes/Concepts/Lagrange Multipliers\|Lagrange Multipliers]]
 $$
 \tilde{L}=L + \lambda f = \frac{1}{2}\dot{x}^{2}M + \frac{1}{2}I\dot{\theta}^{2} - Mg(l-x)\sin \phi+\lambda(x-R\theta)
 $$
@@ -197,8 +197,7 @@ $$
 $$
 This is the [[Physics/Theoretical Mechanics/Class Notes/Concepts/Hamiltonian\|Hamiltonian]], the same one from [[Physics/Quantum Physics/Persans/Quantum Physics\|Quantum Physics]]
 
-	> Figure 4
-	
+![Pasted image 20240217194445.png](/img/user/Attachments/Attachements/Pasted%20image%2020240217194445.png)
 $$
 L = T - u = \frac{1}{2}m(\dot{x}^{2}+\dot{y}^{2}) -mgy
 $$
@@ -213,8 +212,7 @@ H = \sum_{j} \dot{q}_{j} \frac{ \partial L }{ \partial \dot{q}_{j} } \implies H 
 $$
 However, lets look at an accelerated [[pendulum\|pendulum]]- 
 
-	> Figure 5
-	
+![Pasted image 20240217194422.png](/img/user/Attachments/Attachements/Pasted%20image%2020240217194422.png)
 
 $$
 L = T-u = \frac{1}{2} m(\dot{x}^{2}+ \dot{y}^{2}) -mgy
