@@ -17,7 +17,7 @@ Exam 1 notes:
 [[Physics/Electromagnetic Theory/Lecture Notes/2024-01-29 Method of image charges\|2024-01-29 Method of image charges]]
 [[Physics/Electromagnetic Theory/Lecture Notes/2024-02-01 Laplace's Equation Fourier Series\|2024-02-01 Laplace's Equation Fourier Series]]
 [[Physics/Electromagnetic Theory/Lecture Notes/2024-02-05 Spherical Laplace Eq.\|2024-02-05 Spherical Laplace Eq.]]
-[[Class 9 Multipole Expansion 020824.pdf]]
+[[Physics/Electromagnetic Theory/Lecture Notes/2024-02-08 Multipole Expansion\|2024-02-08 Multipole Expansion]]
 [[Physics/Electromagnetic Theory/Lecture Notes/2024-02-12 Electrostatics in Matter\|2024-02-12 Electrostatics in Matter]]
 [[Physics/Electromagnetic Theory/Lecture Notes/2024-02-15 Electrostatics In matter Cont.\|2024-02-15 Electrostatics In matter Cont.]]
 
