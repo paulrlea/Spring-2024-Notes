@@ -118,7 +118,7 @@ Use [[Physics/Math Background/Kronecker delta\|Kronecker delta]]
 
 The integral from 0 -> L over $F(x)\sin (\frac{m\pi x}{L})$ is equal to 
 $$
-a_{m} \frac{1}{2}L
+a_{m} \frac{1}{2}\delta_{n,m}
 $$
 Know that the Kronecker delta can be used to represent a product of two sines like seen above. 
 
