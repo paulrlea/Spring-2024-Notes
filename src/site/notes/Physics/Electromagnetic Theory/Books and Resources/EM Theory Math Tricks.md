@@ -14,6 +14,7 @@ $$
 $$
 
 DELTA FUNCTION 
+The divergence of this is 
 0 for all values where x $\neq$ 0
 $\infty$ for x=0
 $$
