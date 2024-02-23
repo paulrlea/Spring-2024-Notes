@@ -15,7 +15,7 @@ $$
 - This is [[Physics/Electromagnetic Theory/Concepts/Poisson's Equation\|Poisson's Equation]]
 - Where $\rho=0$ this reduces to [[Physics/Electromagnetic Theory/Concepts/Laplace's equation\|Laplace's equation]]
 $$
-\nabla^{2} = 0
+\nabla^{2}V= 0
 $$
 # The Potential of a Localized Charge Distribution
 - We found $V$ in terms of $\mathbf{E}$, now find $\mathbf{E}$ from $V$
