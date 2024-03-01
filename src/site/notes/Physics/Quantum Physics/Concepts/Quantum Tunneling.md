@@ -66,7 +66,7 @@ $$
 There are many situations where we need to consider a barrier that is not rectangular:
 ![Pasted image 20231024112607.png](/img/user/Attachments/Pasted%20image%2020231024112607.png)
 ![Pasted image 20231024112616.png](/img/user/Attachments/Pasted%20image%2020231024112616.png)
-Recall: [[Physics/Electromagnetic Theory/Concepts/Electric Field\|Electric Field]], $E_{0}$ w/t $V = qE_{0}x$ 
+Recall: [[Physics/Electromagnetic Theory/Concepts/Electrostatics/Electric Field\|Electric Field]], $E_{0}$ w/t $V = qE_{0}x$ 
 Now, 
 $$
 E = W + E -eE_{0}x_{0}
