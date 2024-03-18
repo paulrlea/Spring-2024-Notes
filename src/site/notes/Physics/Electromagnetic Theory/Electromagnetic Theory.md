@@ -9,7 +9,7 @@ Room or in office (JROWL 1C20).
 
 [[Physics/Electromagnetic Theory/Lecture Notes/Electrostatics/2024-01-08 Syllabus\|2024-01-08 Syllabus]]
 
-Exam 1 notes: 
+Exam 1 (electrostatics) notes: 
 [[Physics/Electromagnetic Theory/Lecture Notes/Electrostatics/2024-01-11 Fundamental Electrostatics\|2024-01-11 Fundamental Electrostatics]]
 [[Physics/Electromagnetic Theory/Lecture Notes/Electrostatics/2024-01-18 Poisson and Laplace Equation's\|2024-01-18 Poisson and Laplace Equation's]]
 [[Physics/Electromagnetic Theory/Lecture Notes/Electrostatics/2024-01-22 Conductors\|2024-01-22 Conductors]]
@@ -22,6 +22,11 @@ Exam 1 notes:
 [[Physics/Electromagnetic Theory/Lecture Notes/Electrostatics/2024-02-15 Electrostatics In matter Cont.\|2024-02-15 Electrostatics In matter Cont.]]
 
 [[Physics/Electromagnetic Theory/EM Theory Exam 1 Review Materials by class\|EM Theory Exam 1 Review Materials by class]]
+
+Exam 2 notes: (incomplete)
+[[Physics/Electromagnetic Theory/Lecture Notes/2024-02-26 Magnetic Field\|2024-02-26 Magnetic Field]]
+[[Physics/Electromagnetic Theory/Lecture Notes/2024-02-29 Magnetic Materials\|2024-02-29 Magnetic Materials]]
+
 
 
 Pages I find useful
