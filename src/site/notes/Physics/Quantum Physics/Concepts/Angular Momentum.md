@@ -7,7 +7,7 @@ For [[Physics/Quantum Physics/Persans/Quantum Physics\|Quantum Physics]] (not "r
 $$
 -\frac{\hbar^{2}}{2m} \nabla \Psi (x,y,z) + V(x,y,z)\Psi(x,y,z)=E\Psi(x,y,z)
 $$
-For [[Physics/Theoretical Mechanics/Theoretical Mechanics\|Theoretical Mechanics]]
+For [[Physics/Theoretical Mechanics 1/Theoretical Mechanics\|Theoretical Mechanics]]
 $$
 \vec{L}=\vec{r} \times \vec{P}
 $$
