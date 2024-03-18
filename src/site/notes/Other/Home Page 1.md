@@ -5,7 +5,7 @@
 
 Welcome to my notes repository! I take no responsibility for the accuracy or correct-ness of anything in here, but it should be mostly-sort-of correct. Message me on discord if you have any further questions and I can try and help you 
 
-[[Physics/Theoretical Mechanics/Theoretical Mechanics\|Theoretical Mechanics]]
+[[Physics/Theoretical Mechanics 1/Theoretical Mechanics\|Theoretical Mechanics]]
 
 [[Physics/Quantum Physics/Persans/Quantum Physics\|Quantum Physics]]
 
