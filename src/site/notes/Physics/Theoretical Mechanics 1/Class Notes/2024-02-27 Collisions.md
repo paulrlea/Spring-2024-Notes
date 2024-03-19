@@ -3,9 +3,45 @@
 ---
 
 
-*** missed the first half of class ***
+## Scattering Cross Sections 
+![Pasted image 20240318194056 1.png](/img/user/Attachments/Pasted%20image%2020240318194056%201.png)
+In the above diagram, we have 2 particles, m1 and m2 with a repulsive force acting between them. 
+- The **impact parameter**, $b$ represents the distance between m1 and m2 if there were no force. The impact parameter is related to the angular momentum, mass and potential energy in the following equation 
+$$
+l_{m_{1}} = m_{1} u_{1} b
+$$
+This can be rewritten into the following with the equation for initial kinetic energy: $T_{0} = \frac{1}{2}m_{1}u_{1}^{2}$
+$$
+l = b \sqrt{ 2m_{1}T_{0} }
+$$
+- In some cases, we cannot take a measurement of $b$. This is often the case in nuclear or atomic physics. 
+- In these cases, we introduce the concept of a differential scattering cross section, denoted by $\sigma(\theta)$
+-  This is the measure of the number of interactions on the impacted particle that lead to scattering into the solid angle $d\Omega'$ at the angle $\theta$, over the number of particles incident per unit area.
+For example, if you have $dN$ particles scattered into $d\Omega'$ per unit time, then the probability is given by 
+$$
+\sigma(\theta)d\Omega' = \frac{dN}{I}
+$$
+Where I is the intensity of incoming particles
+
+The relation between the impact parameter and scattering angle ($\Theta$) is given by the following equation 
+$$
+\Delta\Theta = \int\limits_{r_\text{min}}^{r_\text{max}} \frac{l/r^{2}}{\sqrt{ 2\mu\left[ E-U-\left( \frac{l^{2}}{2\mu r^{2}} \right) \right] }} \, dr
+$$
 
 
+### Central Force Problems 
+![Pasted image 20240318203833 1.png](/img/user/Attachments/Pasted%20image%2020240318203833%201.png)
+For rotational symmetry about the direction of motion of the incoming beam of particles we can define a ring around the approaching beam of thickness $db$ like in the above figure. We can also set the angles $\alpha$ and $\beta$ in the diagram below equal to each other, and $\Theta$, the scattering angle. 
+![Pasted image 20240318204040 1.png](/img/user/Attachments/Pasted%20image%2020240318204040%201.png)
+
+Therefore, $\theta = \pi-2\Theta$, and the scattering angle $\Theta$ is given by the following integral
+$$
+\int\limits_{r_\text{min}}^{\infty} \frac{\frac{b}{r^{2}}}{\sqrt{ 1-\left( \frac{b^{2}}{r^{2}} \right)-\left( \frac{U}{T_{0}'} \right) }} \, dr
+$$ using the modified initial kinetic energy equation from above, $l=b\sqrt{ 2\mu T_{0}' }$
+
+
+
+We can use this axial symmetry of the beam to 
 Total potential energy
 
 $$
