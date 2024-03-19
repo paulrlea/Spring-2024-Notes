@@ -24,8 +24,8 @@ Notes:
 Exam 1!
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-02-16 Central Forces\|2024-02-16 Central Forces]]
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-02-23 Central forces cont.\|2024-02-23 Central forces cont.]]
-[[Physics/Theoretical Mechanics 1/Class Notes/2024-02-27 Collisions\|2024-02-27 Collisions]] (halfway incomplete ish )
-[[Physics/Theoretical Mechanics 1/Class Notes/2024-03-01 Non-Inertial reference frames\|2024-03-01 Non-Inertial reference frames]] (very incomplete)
+[[Physics/Theoretical Mechanics 1/Class Notes/2024-02-27 Collisions\|2024-02-27 Collisions]] (mostly complete)
+[[Physics/Theoretical Mechanics 1/Class Notes/2024-03-01 + 14 Non-Inertial reference frames\|2024-03-01 + 14 Non-Inertial reference frames]] (very incomplete)
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-03-15 Rigid Bodies Cont.\|2024-03-15 Rigid Bodies Cont.]]
 
 Old HW, double check before using answers for **anything**
@@ -35,7 +35,7 @@ Old HW, double check before using answers for **anything**
 [[Physics/Theoretical Mechanics 1/HW/HW4 Paul Lea\|HW4 Paul Lea]] 18/20
 [[Physics/Theoretical Mechanics 1/HW/HW5 Paul Lea\|HW5 Paul Lea]] 
 
-[[Physics/Theoretical Mechanics 1/Theoretical Mechanics Exam 1 Resources\|Theoretical Mechanics Exam 1 Resources]]
+[[Physics/Theoretical Mechanics 1/Resources/Theoretical Mechanics Exam 1 Resources\|Theoretical Mechanics Exam 1 Resources]]
 [[Physics/Theoretical Mechanics 1/Resources/Theoretical Mechanics Exam 2 Resources\|Theoretical Mechanics Exam 2 Resources]]
 
 
