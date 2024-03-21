@@ -26,6 +26,7 @@ Exam 1 (electrostatics) notes:
 Exam 2 notes: (incomplete)
 [[Physics/Electromagnetic Theory/Lecture Notes/2024-02-26 Magnetic Field\|2024-02-26 Magnetic Field]]
 [[Physics/Electromagnetic Theory/Lecture Notes/2024-02-29 Magnetic Materials\|2024-02-29 Magnetic Materials]]
+[[Physics/Electromagnetic Theory/Lecture Notes/2024-03-18 Conservation laws\|2024-03-18 Conservation laws]]
 
 
 
