@@ -6,7 +6,7 @@
 - Tuesday 2/13 form 8-9:50
 - 4 problems, each problem should be ~ half hour
 - Concepts covered
-	- [[Physics/Theoretical Mechanics 1/Class Notes/Classical  Review\|Classical  Review]]
+	- [[Physics/Theoretical Mechanics 1/Class Notes/@Classical  Review\|@Classical  Review]]
 	- [[Physics/Theoretical Mechanics 1/Class Notes/Concepts/Special Relativity\|Special Relativity]]
 		- Have numbers in it, will be simple numbers
 		- Boost Equations
@@ -25,10 +25,10 @@ https://drive.google.com/file/d/1v0opDy5yPW4tFAxx_7oI7hFHgMDHlwnP/view?usp=shari
 Concepts covered: 
 [[Physics/Theoretical Mechanics 1/Class Notes/Concepts/Lagrangian Mechanics\|Lagrangian Mechanics]]
 [[Physics/Theoretical Mechanics 1/Class Notes/Concepts/Special Relativity\|Special Relativity]]
-[[Physics/Theoretical Mechanics 1/Class Notes/Classical  Review\|Classical  Review]]
+[[Physics/Theoretical Mechanics 1/Class Notes/@Classical  Review\|@Classical  Review]]
 
 Relevant notes: 
-[[Physics/Theoretical Mechanics 1/Class Notes/Classical  Review\|Classical  Review]]
+[[Physics/Theoretical Mechanics 1/Class Notes/@Classical  Review\|@Classical  Review]]
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-01-16  Reference Frames\|2024-01-16  Reference Frames]]
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-01-19 Special Relativity\|2024-01-19 Special Relativity]]
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-01-23 Lagrangian Mechanics\|2024-01-23 Lagrangian Mechanics]]
