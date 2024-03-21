@@ -12,7 +12,7 @@ Office Hours:
 3-5Pm Friday
 
 Notes: 
-[[Physics/Theoretical Mechanics 1/Class Notes/Classical  Review\|Classical  Review]]
+[[Physics/Theoretical Mechanics 1/Class Notes/@Classical  Review\|@Classical  Review]]
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-01-16  Reference Frames\|2024-01-16  Reference Frames]]
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-01-19 Special Relativity\|2024-01-19 Special Relativity]]
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-01-23 Lagrangian Mechanics\|2024-01-23 Lagrangian Mechanics]]
@@ -25,7 +25,7 @@ Exam 1!
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-02-16 Central Forces\|2024-02-16 Central Forces]]
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-02-23 Central forces cont.\|2024-02-23 Central forces cont.]]
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-02-27 Collisions\|2024-02-27 Collisions]] (mostly complete)
-[[Physics/Theoretical Mechanics 1/Class Notes/2024-03-01 + 14 Non-Inertial reference frames\|2024-03-01 + 14 Non-Inertial reference frames]] (very incomplete)
+[[Physics/Theoretical Mechanics 1/Class Notes/2024-03-01 Non-Inertial reference frames\|2024-03-01 Non-Inertial reference frames]] (very incomplete)
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-03-15 Rigid Bodies Cont.\|2024-03-15 Rigid Bodies Cont.]]
 
 Old HW, double check before using answers for **anything**
