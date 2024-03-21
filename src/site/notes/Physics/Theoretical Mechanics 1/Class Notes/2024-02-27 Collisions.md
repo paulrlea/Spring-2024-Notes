@@ -79,7 +79,7 @@ $$
 $$
 Vectors are anti-parallel, means the two particles approach head on in the center of mass frame. 
 
-> figure 1 hree 
+> figure 1 here
 
 
 Scattering angle is the same, not generally true in the lab frame. 
@@ -132,7 +132,6 @@ $$
 
 
 ### Trajectories in lab frame 
-
 $$
 m_{1}\vec{v}_{1} + m_{2}\vec{v}_{2} = m_{1}\vec{v}_{1}' + m_{2}\vec{v}_{2}' = m \dot{\vec{R}}
 $$
@@ -222,6 +221,7 @@ $$
 $$
 m_{1}=m_{2} \xi + \psi =\frac{\pi}{2}
 $$
+
 
 
 
