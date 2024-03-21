@@ -6,7 +6,7 @@
 - Tuesday 2/13 form 8-9:50
 - 4 problems, each problem should be ~ half hour
 - Concepts covered
-	- [[Physics/Theoretical Mechanics 1/Class Notes/Classical  Review\|Classical  Review]]
+	- [[Physics/Theoretical Mechanics 1/Class Notes/@Classical  Review\|@Classical  Review]]
 	- [[Physics/Theoretical Mechanics 1/Class Notes/2024-01-19 Special Relativity\|2024-01-19 Special Relativity]]
 		- Have numbers in it, will be simple numbers
 		- Boost Equations
