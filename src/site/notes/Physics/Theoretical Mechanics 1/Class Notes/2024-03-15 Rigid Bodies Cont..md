@@ -179,5 +179,7 @@ $$
 $$
 $$
 =\frac{1}{2} I_{33} \omega_{3}^{2}
-$$The dzhanibhanibekov eekov effect or tennis racket theorem arises from this ! very cool videos. 
+$$
+
+The dzhanibhanibekov effect or tennis racket theorem arises from this ! very cool videos. 
 
