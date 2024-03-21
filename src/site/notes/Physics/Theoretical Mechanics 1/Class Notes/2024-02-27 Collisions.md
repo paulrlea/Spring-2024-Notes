@@ -37,7 +37,8 @@ For rotational symmetry about the direction of motion of the incoming beam of pa
 Therefore, $\theta = \pi-2\Theta$, and the scattering angle $\Theta$ is given by the following integral
 $$
 \int\limits_{r_\text{min}}^{\infty} \frac{\frac{b}{r^{2}}}{\sqrt{ 1-\left( \frac{b^{2}}{r^{2}} \right)-\left( \frac{U}{T_{0}'} \right) }} \, dr
-$$ using the modified initial kinetic energy equation from above, $l=b\sqrt{ 2\mu T_{0}' }$
+$$ 
+using the modified initial kinetic energy equation from above, $l=b\sqrt{ 2\mu T_{0}' }$
 
 
 
@@ -86,11 +87,13 @@ Scattering angle is the same, not generally true in the lab frame.
 Consider now kinetic energy in the center of mass frame: 
 $$
 \frac{1}{2}m_{1}\vec{v}_{1} ^{2} + \frac{1}{2} m_{2}\vec{v}_{2}^{*^{2}}= \frac{1}{2} m_{1} \vec{v}_{1}{^{*^{2}}} + \frac{1}{2} m_{2} \vec{v}_{2}'^{*^{2}}
-$$This can be rewritten as 
+$$
+This can be rewritten as 
 $$
 \frac{1}{2} m_{1}\vec{v}^{*^{2}}_{1}+\frac{1}{2}m_{2} \frac{m_{1}^{2}}{m_{2}^{2}} \vec{v}_{1}^{*^{2}}=\frac{1}{2}m_{1}\vec{v}_{1}^{*^{2}} + \frac{1}{2} m_{2}\frac{m_{1}^{2}}{m_{2}^{2}} \vec{v}_{1}'^{*^{2}}
 $$
-or $$
+or 
+$$
 \frac{1}{2}\left( m_{1}+\frac{m_{1}^{2}}{m_{2}} \right) \vec{v}_{1}^{*^{2}} = \frac{1}{2} \left( m_{1} + \frac{m_{1}^{2}}{m_{2}} \right)\vec{v}_{1}' ^{*^{2}}
 $$
 Since elastic 
