@@ -27,8 +27,10 @@ Exam 1!
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-02-27 Collisions\|2024-02-27 Collisions]] (mostly complete)
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-03-01 Non-Inertial reference frames\|2024-03-01 Non-Inertial reference frames]] (very incomplete)
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-03-15 Rigid Bodies Cont.\|2024-03-15 Rigid Bodies Cont.]]
+[[Physics/Theoretical Mechanics 1/Class Notes/2024-03-19 Rotating Rigid Bodies\|2024-03-19 Rotating Rigid Bodies]]
+[[Physics/Theoretical Mechanics 1/Class Notes/2024-03-22 Parallel Axis Theorem\|2024-03-22 Parallel Axis Theorem]]
 
-Old HW, double check before using answers for **anything**
+Old HW, double check before using answers
 [[Physics/Theoretical Mechanics 1/HW/HW1 Paul Lea\|HW1 Paul Lea]] 39.5/40
 [[Physics/Theoretical Mechanics 1/HW/HW2 Paul Lea\|HW2 Paul Lea]] 30/30
 [[Physics/Theoretical Mechanics 1/HW/HW3 Paul Lea\|HW3 Paul Lea]] 26.5/30
