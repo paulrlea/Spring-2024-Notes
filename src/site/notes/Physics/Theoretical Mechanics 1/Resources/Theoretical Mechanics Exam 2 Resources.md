@@ -5,12 +5,15 @@
 Exam on Tuesday Apr. 3rd. 
 
 Topics (i think): 
+[[Physics/Theoretical Mechanics 1/Class Notes/Concepts/forces of constraint\|forces of constraint]]
+[[Physics/Theoretical Mechanics 1/Class Notes/Concepts/Lagrange Multipliers\|Lagrange Multipliers]]
+[[Physics/Theoretical Mechanics 1/Class Notes/Concepts/generalized coordinates\|generalized coordinates]]?
+[[Physics/Theoretical Mechanics 1/Class Notes/Concepts/Hamiltonian\|Hamiltonian]]
+[[Physics/Theoretical Mechanics 1/Class Notes/2024-01-26 Calc. of Variations\|2024-01-26 Calc. of Variations]]
 [[Physics/Theoretical Mechanics 1/Class Notes/Concepts/Central Forces\|Central Forces]]
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-03-01 Non-Inertial reference frames\|2024-03-01 Non-Inertial reference frames]]
 [[Rigid Bodies\|Rigid Bodies]]
 [[Physics/Theoretical Mechanics 1/Class Notes/Concepts/Inertia tensor\|Inertia tensor]]
-[[Physics/Theoretical Mechanics 1/Class Notes/Concepts/Hamiltonian\|Hamiltonian]]
-
 Notes: (i think? not positive)
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-01-26 Calc. of Variations\|2024-01-26 Calc. of Variations]]
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-01-30 Calc. of Variations Continued\|2024-01-30 Calc. of Variations Continued]]
