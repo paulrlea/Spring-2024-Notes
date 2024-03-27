@@ -29,6 +29,10 @@ Exam 1!
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-03-15 Rigid Bodies Cont.\|2024-03-15 Rigid Bodies Cont.]]
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-03-19 Rotating Rigid Bodies\|2024-03-19 Rotating Rigid Bodies]]
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-03-22 Parallel Axis Theorem\|2024-03-22 Parallel Axis Theorem]]
+[[Physics/Theoretical Mechanics 1/Class Notes/2024-03-26 Oscillations\|2024-03-26 Oscillations]]
+more oscillations
+Exam 2!
+
 
 Old HW, double check before using answers
 [[Physics/Theoretical Mechanics 1/HW/HW1 Paul Lea\|HW1 Paul Lea]] 39.5/40
