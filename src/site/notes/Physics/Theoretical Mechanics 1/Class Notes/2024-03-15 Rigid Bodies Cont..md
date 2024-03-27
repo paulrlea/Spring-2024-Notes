@@ -85,7 +85,7 @@ $$
 I_{33} = m[a^{2}+a^{2}+4a^{2}] = 6ma^{2}
 $$
 $$
-I_{12}=-m[(a \times 0) + (0 \times a)+ (0 \times 2a)] = 0 = I_{12}
+I_{12}=-m[(a \times 0) + (0 \times a)+ (0 \times 2a)] = 0 = I_{21}
 $$
 $$
 I_{13} = -m[(a \times 0 ) + ( 0 \times 2a ) + (0 \times a ) ] = I_{3,1}
