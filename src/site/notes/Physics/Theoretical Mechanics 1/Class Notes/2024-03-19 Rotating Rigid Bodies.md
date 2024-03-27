@@ -13,7 +13,7 @@ Given length $a$, mass $M$, and the corner of the cube at the origin of the syst
 
 [[Physics/Math Background/Kronecker delta\|Kronecker delta]] review
 $$
-	I_{ij} = \int _{v} p(\vec{r}) \left( \delta_{ij}\sum_{k} x_{\alpha k}^{2}-x_{\alpha i} x_{\alpha j} \right) \, dV
+	I_{ij} = \int _{v} p(\vec{r}) \left( \delta_{ij}\sum_{k} x_{ k}^{2}-x_{ i} x_{ j} \right) \, dV
 $$
 Finding $I_{11}$ 
 $$
