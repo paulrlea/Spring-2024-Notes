@@ -27,7 +27,13 @@ Exam 2 notes: (incomplete)
 [[Physics/Electromagnetic Theory/Lecture Notes/2024-02-26 Magnetic Field\|2024-02-26 Magnetic Field]]
 [[Physics/Electromagnetic Theory/Lecture Notes/2024-02-29 Magnetic Materials\|2024-02-29 Magnetic Materials]]
 [[Physics/Electromagnetic Theory/Lecture Notes/2024-03-18 Conservation laws\|2024-03-18 Conservation laws]]
+[[Physics/Electromagnetic Theory/Lecture Notes/2024-03-11\|2024-03-11]]
+[[Physics/Electromagnetic Theory/Lecture Notes/2024-03-14\|2024-03-14]]
+[[Physics/Electromagnetic Theory/Lecture Notes/2024-03-21 Electromagnetic Wave\|2024-03-21 Electromagnetic Wave]]
+[[Physics/Electromagnetic Theory/Lecture Notes/2024-03-25 EM Waves in Matter\|2024-03-25 EM Waves in Matter]]
 
+[[Physics/Electromagnetic Theory/Lecture Notes/2024-03-21 Electromagnetic Wave\|2024-03-21 Electromagnetic Wave]]
+[[Physics/Electromagnetic Theory/Lecture Notes/2024-03-25 EM Waves in Matter\|2024-03-25 EM Waves in Matter]]
 
 
 Pages I find useful
