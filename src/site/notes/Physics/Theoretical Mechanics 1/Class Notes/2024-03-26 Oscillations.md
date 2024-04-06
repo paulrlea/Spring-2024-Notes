@@ -10,7 +10,7 @@ $$
 u(x) = u(x_{0}) + \frac{ d u }{ d x } |_{x_{0}} (x-x_{0}) + \frac{ d ^{2}u }{ d x^{2} } (x-x_{0})^{2}+\dots
 $$
 Where $x=x_{0}$ was the equilibrium position. 
-- This tells us the potential at a point can be represented by a [[Taylor Series\|Taylor Series]]
+- This tells us the potential at a point can be represented by a [[Physics/Math Background/Taylor Series\|Taylor Series]]
 ### Forces
 We can model the forces acting upon the object with 
 $$
