@@ -30,7 +30,7 @@ Exam 1!
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-03-19 Rotating Rigid Bodies\|2024-03-19 Rotating Rigid Bodies]]
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-03-22 Parallel Axis Theorem\|2024-03-22 Parallel Axis Theorem]]
 [[Physics/Theoretical Mechanics 1/Class Notes/2024-03-26 Oscillations\|2024-03-26 Oscillations]]
-more oscillations
+[[Physics/Theoretical Mechanics 1/Class Notes/2024-03-29 Coupled Oscillations\|2024-03-29 Coupled Oscillations]] (and exam logistics)
 Exam 2!
 
 
